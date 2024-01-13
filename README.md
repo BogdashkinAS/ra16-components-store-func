@@ -1,5 +1,8 @@
 ![CI](https://github.com/BogdashkinAS/ra16-components-store-func/actions/workflows/web.yml/badge.svg)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/u74s0spm584uvg4t?svg=true)](https://ci.appveyor.com/project/BogdashkinAS/ra16-components-store-func)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
